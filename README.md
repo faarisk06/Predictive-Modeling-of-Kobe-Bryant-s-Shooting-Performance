@@ -1,4 +1,4 @@
-# Predictive-Modeling-of-Kobe-Bryant-s-Shooting-Performance
+Predictive-Modeling-of-Kobe-Bryant-s-Shooting-Performance
 
 Kobe Bryant Shot Prediction Analysis
 This repository contains a predictive modeling analysis of Kobe Bryant's shooting performance throughout his 20-year NBA career.
